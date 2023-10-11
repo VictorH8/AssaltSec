@@ -1,7 +1,7 @@
 # AssaltSec
 
 
-## SCRIPT DELETE DATABASE :octocat:
+## SCRIPT DELETE FIREBASE :octocat:
 
 **1** - ``pkg upgrade & pkg update``
 
